@@ -4,7 +4,6 @@
 
 .navbar{
   background-color: #171717;
-  padding-left: 5%;
 }
 
 .nav-item{
@@ -12,9 +11,6 @@
   font-family: 'Merriweather', serif;
 }
 
-.navbar-toggler{
-  padding: 2%;
-}
 .name{
   font-family: 'Sacramento', cursive;
   font-size: 700%;
