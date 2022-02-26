@@ -11,10 +11,10 @@
 }
 
 .name{
-  font-family: 'Nunito', sans-serif;
+  font-family: 'Sen', sans-serif;
   color: #EDEDED;
   font-size: 450%;
-  padding-top: 15%;
+  padding-top: 8%;
   font-weight: bold;
 }
 
@@ -48,8 +48,7 @@
   font-family: 'Merriweather', serif;
   color: #EDEDED;
   line-height: 50px;
-  padding: 5%;
-  padding-bottom: 0.7%;
+  padding: 8%;
   font-weight: bold;
 }
 
@@ -95,7 +94,7 @@
 }
 
 .div2 {
-  background-color: #DA0037;
+  background-color: #ce345b;
   height: 10px;
   width: 100%
 }
@@ -147,7 +146,7 @@
   padding-top: 2%;
   font-family: 'Merriweather', serif;
   font-size: 30px;
-  color: #DA0037;
+  color: #ce345b;
   font-weight: bold;
 }
 
@@ -172,7 +171,7 @@
 .work-subheadline{
   padding: 1%;
   font-family: 'Merriweather', serif;
-  color: #DA0037;
+  color: #ce345b;
   font-size: 30px;
   font-weight: bold;
 }
@@ -208,20 +207,38 @@
 }
 
 .pink{
-  color: #DA0037;
+  color: #ce345b;
 }
 
 .pink:hover{
-  color: #ff0040;
+  color: #c0df52;
+}
+
+.pink-font{
+  color: #ce345b;
+}
+
+.green{
+  color: #ce345b;
 }
 
 .pinkbg{
-  background-color: #DA0037;
+  background-color: #ce345b;
 }
 
 .planet{
   width: 50%;
   padding-bottom: 5%;
+}
+
+.ghost{
+  margin-top: 2%;
+  color: #c0df52;
+  padding: 10%;
+}
+
+.ghost:hover{
+  color: #ce345b;
 }
 
 .dp{
@@ -245,7 +262,7 @@
 }
 
 .fa-star{
-  color: #DA0037;
+  color: #ce345b;
   padding: 5%;
 }
 
