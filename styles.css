@@ -11,10 +11,9 @@
 }
 
 .name{
-  font-family: 'Sacramento', cursive;
-  font-size: 600%;
+  font-family: 'Nunito', sans-serif;
   color: #EDEDED;
-  padding: 5%;
+  font-size: 450%;
   padding-top: 15%;
   font-weight: bold;
 }
